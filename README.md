@@ -1,2 +1,1 @@
-forget semicolon end life
-return
+effort to make fancy readme 
